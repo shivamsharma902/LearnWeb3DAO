@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 Crypto Devs Contract Address: 0xFC1FaF713ea9813d497eEb9f568bFC6FD24D04b4
+Crypto Devs Contract Address: 0x8085BF246f9b01981506087b9D14a9847260577C
